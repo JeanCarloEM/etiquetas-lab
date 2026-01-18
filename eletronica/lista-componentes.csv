@@ -1,4 +1,4 @@
-Código/Modelo;Especificação;Formato;Nome Etiqueta;Local
+Código/Modelo;Detalhamento;Formato;Nome Etiqueta;Local
 tpic6b595n;;DIP;;
 MT3608;;Módulo mini;;
 M358P;;DIP;;
@@ -23,7 +23,7 @@ TLP250H ;;DIP;;
 KBP307;;DIP;;
 lm2596;;Módulo mini;Regulador de Tensão;
 LM317T ;;DIP;;
-As5600  ;;Módulo;;
+AS5600  ;;Módulo;;
 2n2222 A331;;TO-220;;
 DB107;;DIP;;
 XT60;Fêmea;Plugue;;
@@ -154,3 +154,7 @@ S9015 C331;;;;CX 200
 100uH;26% 0,5w verde, color ring;;;cx20v Indutor
 470uH;27% 0,5w verde, color ring;;;cx20v Indutor
 22uH;28% 0,5w verde, color ring;;;cx20v Indutor
+UCC28180;Pendente de compra;;PFC;
+UCC25600 ;Pendente de compra;;LLC;
+IPW60R041P6  ;Pendente de compra;;Mosfet-N;
+STPSC10H065  ;Pendente de compra;;;
