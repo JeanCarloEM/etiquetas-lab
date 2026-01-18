@@ -1,0 +1,137 @@
+Código/Modelo;Especificação;Formato;Nome Etiqueta;Local
+tpic6b595n;;DIP;;
+MT3608;;Módulo mini;;
+M358P;;DIP;;
+ULN2003AN;;DIP;;
+AMS1117;3.3V;Módulo mini;;
+L293;;DIP;;
+BMS;1S 3A 3.7V;Módulo;;
+TP4056;Type C 1A;Módulo;;
+14D471K;;;;
+SG3525AN;;DIP;Driver PWM de Sinal;
+irfb4110pbf;;TO-220;;
+TL494CN ;;DIP;;
+SLA-05VDC-SL-A;5 PINOS;;;
+PD65W ;QC4 3.25A 65W;Módulo;;
+20D271K;;;;
+X9C103S ;100TH 10K;Módulo;;
+FL-19B SHUNT;75mV 200a ;;;
+TC4420CPA ;;DIP;;
+LTV814;;DIP;;
+IRF530N ;;DIP;;
+TLP250H ;;DIP;;
+KBP307;;DIP;;
+lm2596;;Módulo mini;Regulador de Tensão;
+LM317T ;;DIP;;
+As5600  ;;Módulo;;
+2n2222 A331;;TO-220;;
+DB107;;DIP;;
+XT60;Fêmea;Plugue;;
+XT60;Macho;Plugue;;
+XT30;Fêmea;Plugue;;
+XT30;Macho;Plugue;;
+XT90;Fêmea;Plugue;;
+XT90;Macho;Plugue;;
+XT60;Fêmea;Soquete;;
+XT90;Fêmea;Soquete;;
+XT30;Fêmea;Soquete;;
+20D271K;;;;
+20D201K;;;;
+SS12D00;3mm;;;
+12v2a;;Módulo;;
+3296W  ;variados;;;
+P6KE15A;;;;
+P6KE68A;;;;
+5V2A;;Módulo;;
+X2 275VAC;;;;
+ST7789;2.0” 240x320px;;;
+ILI9341;2.8” 240x340px;;;
+TLP250;;DIP;;
+KBPC5010;;;;
+IRFB4110 ;;;;
+MBRF40100CT ;;;;
+FL-2C Shunt;0,5 CLASS, 75mV, 200a ;;;
+12v6a;;Módulo;;
+dc1200w20a;Dc-dc;Módulo;;
+esp32-c3;;Módulo;Microcontrolador;
+IR4427PBF;;DIP;;
+100V47UF  ;;;Capacitor;
+Genérico;4ch I2C 3.3/5v Bidirecional;Módulo;Conversor de Nível Lógico;
+P6KE6A8 ;;;;
+P6KE13A ;;;;
+Mini360;;Módulo Mini;Regulador de Tensão;
+P6KE51A ;;;;
+CD4050BE;;DIP;;
+07D180K ;;;;
+PC817;;DIP;;
+P6KE15A ;;;;
+Clip Fusível;5x20mm PCB;DIP;;
+Attiny13a;;SMD;;
+Estardyn;para Attiny13a Attiny25 … Atiny85;Programador;;
+12085;12x8,5mm 12ohm;;;
+PC817;8ch;Módulo;;
+TFT 2.5”;76x284px;Módulo;LCD;
+TFT 2.0”;240x340px;Módulo;LCD;
+IR2110  ;Pendente de compra;DIP;;
+500w;3590s;Painel;Potenciômetro;
+100k;3590s;Painel;Potenciômetro;
+LM324;Pendente de compra;DIP;;
+ACS712;30.a;Módulo;;
+D4012SA  ;3.3v;Módulo;;
+1N4729A  ;3.6v;;;
+TL431A;;TO-92;;
+Fusível Veicular;Mini;Veicular;;
+XL74610;lm74610;Módulo;;
+KCD1;12v/220v 16.a 20.a 3pinos;;;
+Relé;12v 30a ;Módulo;;
+MBR3045CT;;;;
+IRFB3077 ;;;;
+UC3845;Pendente de compra;DIP;;
+L6562;Pendente de compra;DIP;;
+2N7000;Pendente de compra;;;
+HT7133;Pendente de compra;;;
+P6KE440CA ;Pendente de compra;;;
+20D471K;Pendente de compra;;;
+20D511K;Pendente de compra;;;
+IR840;Pendente de compra;;;
+10D-20;Pendente de compra;;;
+20D431K;Pendente de compra;;;
+Voltímetro;;Soquete;;
+Controlador Bateria;6-60v 30a ;Módulo;;
+Porta Fusível;6x30 vidro/tubo;Soquete;;
+30SQ050;;;;
+Banana;Macho;Plugue;;
+Banana;Fêmea;Soquete;;
+Filtro EMI;25.a;Módulo;;
+USB-C;Fêmea;Soquete;;
+Jack P4;Fêmea 5.5x2.1mm;Plugue;;
+Jack P4;Macho 5.5x2.1mm;Plugue;;
+so239;RF;;;
+;Adaptador so239 para sma Femea;;;
+;Flange PL259/so239;;;
+;Adaptador BNC-F para SMA-F;;;
+;Adaptador SMA-F para SO239;;;
+XL4016;DC-DC Step Down 9.a 300w;Módulo;;
+W1209;Mini Termostado;Módulo;;
+;Bloco terminal PWB;;;
+;DC-DC Step Down 8a 100w;Módulo;;
+;DCDC Step UP 15a 400w;Módulo;;
+a1015 cr331;;;;CX 200
+s9018 h331;;;;CX 200
+bc327 bc327;;;;CX 200
+bc337;;;;CX 200
+bc547 b331;;;;CX 200
+gc557;;;;CX 200
+c945 p331;;;;CX 200
+c1815 cr331;;;;CX 200
+S8050 D.331;;;;CX 200
+S8550 D.331;;;;CX 200
+S9012 H.331;;;;CX 200
+S9013 H.331;;;;CX 200
+S9014 C331;;;;CX 200
+S9015 C331;;;;CX 200
+2N2907 A331;;;;CX 200
+2N3904 B331;;;;CX 200
+2N3906 B331;;;;CX 200
+2N5401 B331;;;;CX 200
+2N5551 B331;;;;CX 200
