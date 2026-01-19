@@ -1,160 +1,160 @@
-Código/Modelo;Detalhamento;Formato;Nome Etiqueta;Local
-tpic6b595n;;DIP;;
-MT3608;;Módulo mini;;
-M358P;;DIP;;
-ULN2003AN;;DIP;;
-AMS1117;3.3V;Módulo mini;;
-L293;;DIP;;
-BMS;1S 3A 3.7V;Módulo;;
-TP4056;Type C 1A;Módulo;;
-14D471K;;;;
-SG3525AN;;DIP;Driver PWM de Sinal;
-irfb4110pbf;;TO-220;;
-TL494CN ;;DIP;;
-SLA-05VDC-SL-A;5 PINOS;;;
-PD65W ;QC4 3.25A 65W;Módulo;;
-20D271K;;;;
-X9C103S ;100TH 10K;Módulo;;
-FL-19B SHUNT;75mV 200a ;;;
-TC4420CPA ;;DIP;;
-LTV814;;DIP;;
-IRF530N ;;DIP;;
-TLP250H ;;DIP;;
-KBP307;;DIP;;
-lm2596;;Módulo mini;Regulador de Tensão;
-LM317T ;;DIP;;
-AS5600  ;;Módulo;;
-2n2222 A331;;TO-220;;
-DB107;;DIP;;
-XT60;Fêmea;Plugue;;
-XT60;Macho;Plugue;;
-XT30;Fêmea;Plugue;;
-XT30;Macho;Plugue;;
-XT90;Fêmea;Plugue;;
-XT90;Macho;Plugue;;
-XT60;Fêmea;Soquete;;
-XT90;Fêmea;Soquete;;
-XT30;Fêmea;Soquete;;
-20D271K;;;;
-20D201K;;;;
-SS12D00;3mm;;;
-12v2a;;Módulo;;
-3296W  ;variados;;;
-P6KE15A;;;;
-P6KE68A;;;;
-5V2A;;Módulo;;
-X2 275VAC;;;;
-ST7789;2.0” 240x320px;;;
-ILI9341;2.8” 240x340px;;;
-TLP250;;DIP;;
-KBPC5010;;;;
-IRFB4110 ;;;;
-MBRF40100CT ;;;;
-FL-2C Shunt;0,5 CLASS, 75mV, 200a ;;;
-12v6a;;Módulo;;
-dc1200w20a;Dc-dc;Módulo;;
-esp32-c3;;Módulo;Microcontrolador;
-IR4427PBF;;DIP;;
-100V47UF  ;;;Capacitor;
-Genérico;4ch I2C 3.3/5v Bidirecional;Módulo;Conversor de Nível Lógico;
-P6KE6A8 ;;;;
-P6KE13A ;;;;
-Mini360;;Módulo Mini;Regulador de Tensão;
-P6KE51A ;;;;
-CD4050BE;;DIP;;
-07D180K ;;;;
-PC817;;DIP;;
-P6KE15A ;;;;
-Clip Fusível;5x20mm PCB;DIP;;
-Attiny13a;;SMD;;
-Estardyn;para Attiny13a Attiny25 … Atiny85;Programador;;
-12085;12x8,5mm 12ohm;;;
-PC817;8ch;Módulo;;
-TFT 2.5”;76x284px;Módulo;LCD;
-TFT 2.0”;240x340px;Módulo;LCD;
-IR2110  ;Pendente de compra;DIP;;
-500w;3590s;Painel;Potenciômetro;
-100k;3590s;Painel;Potenciômetro;
-LM324;Pendente de compra;DIP;;
-ACS712;30.a;Módulo;;
-D4012SA  ;3.3v;Módulo;;
-1N4729A  ;3.6v;;;
-TL431A;;TO-92;;
-Fusível Veicular;Mini;Veicular;;
-XL74610;lm74610;Módulo;;
-KCD1;12v/220v 16.a 20.a 3pinos;;;
-Relé;12v 30a ;Módulo;;
-MBR3045CT;;;;
-IRFB3077 ;;;;
-UC3845;Pendente de compra;DIP;;
-L6562;Pendente de compra;DIP;;
-2N7000;Pendente de compra;;;
-HT7133;Pendente de compra;;;
-P6KE440CA ;Pendente de compra;;;
-20D471K;Pendente de compra;;;
-20D511K;Pendente de compra;;;
-IR840;Pendente de compra;;;
-10D-20;Pendente de compra;;;
-20D431K;Pendente de compra;;;
-Voltímetro;;Soquete;;
-Controlador Bateria;6-60v 30a ;Módulo;;
-Porta Fusível;6x30 vidro/tubo;Soquete;;
-30SQ050;;;;
-Banana;Macho;Plugue;;
-Banana;Fêmea;Soquete;;
-Filtro EMI;25.a;Módulo;;
-USB-C;Fêmea;Soquete;;
-Jack P4;Fêmea 5.5x2.1mm;Plugue;;
-Jack P4;Macho 5.5x2.1mm;Plugue;;
-so239;RF;;;
-;Adaptador so239 para sma Femea;;;
-;Flange PL259/so239;;;
-;Adaptador BNC-F para SMA-F;;;
-;Adaptador SMA-F para SO239;;;
-XL4016;DC-DC Step Down 9.a 300w;Módulo;;
-W1209;Mini Termostado;Módulo;;
-;Bloco terminal PWB;;;
-;DC-DC Step Down 8a 100w;Módulo;;
-;DCDC Step UP 15a 400w;Módulo;;
-a1015 cr331;;;;CX 200
-s9018 h331;;;;CX 200
-bc327 bc327;;;;CX 200
-bc337;;;;CX 200
-bc547 b331;;;;CX 200
-gc557;;;;CX 200
-c945 p331;;;;CX 200
-c1815 cr331;;;;CX 200
-S8050 D.331;;;;CX 200
-S8550 D.331;;;;CX 200
-S9012 H.331;;;;CX 200
-S9013 H.331;;;;CX 200
-S9014 C331;;;;CX 200
-S9015 C331;;;;CX 200
-2N2907 A331;;;;CX 200
-2N3904 B331;;;;CX 200
-2N3906 B331;;;;CX 200
-2N5401 B331;;;;CX 200
-2N5551 B331;;;;CX 200
-200uH;10% 0,5w verde, color ring;;;cx20v Indutor
-330uH;11% 0,5w verde, color ring;;;cx20v Indutor
-1uH;12% 0,5w verde, color ring;;;cx20v Indutor
-10uH;13% 0,5w verde, color ring;;;cx20v Indutor
-2.2mH;14% 0,5w verde, color ring;;;cx20v Indutor
-150uH;15% 0,5w verde, color ring;;;cx20v Indutor
-1mH;16% 0,5w verde, color ring;;;cx20v Indutor
-15uH;17% 0,5w verde, color ring;;;cx20v Indutor
-47uH;18% 0,5w verde, color ring;;;cx20v Indutor
-4,7mH;19% 0,5w verde, color ring;;;cx20v Indutor
-4,7uH;20% 0,5w verde, color ring;;;cx20v Indutor
-3,3uH;21% 0,5w verde, color ring;;;cx20v Indutor
-2,2uH;22% 0,5w verde, color ring;;;cx20v Indutor
-33uH;23% 0,5w verde, color ring;;;cx20v Indutor
-680uH;24% 0,5w verde, color ring;;;cx20v Indutor
-3,3mH;25% 0,5w verde, color ring;;;cx20v Indutor
-100uH;26% 0,5w verde, color ring;;;cx20v Indutor
-470uH;27% 0,5w verde, color ring;;;cx20v Indutor
-22uH;28% 0,5w verde, color ring;;;cx20v Indutor
-UCC28180;Pendente de compra;;PFC;
-UCC25600 ;Pendente de compra;;LLC;
-IPW60R041P6  ;Pendente de compra;;Mosfet-N;
-STPSC10H065  ;Pendente de compra;;;
+Código/Modelo;Detalhamento;Formato;Nome Etiqueta;Localização;Linha;Coluna;p1;p2;p3;p4
+tpic6b595n;Power Shift Register;DIP-20;Matriz de Drive;;;;50V;150mA;Power Shift;8 Ch
+MT3608;Módulo Step-Up;Módulo mini;Regulador de Tensão;;;;2-24V;2A;Step-Up;Pfm/Pwm
+M358P;Dual Op-Amp;DIP-8;Matriz de Sinal;;;;3-32V;1.1MHz;Amp-Op;2 Ch
+ULN2003AN;Darlington Array;DIP-16;Matriz de Drive;;;;50V;500mA;Darlington;7 Ch
+AMS1117;Regulador LDO 3.3V;Módulo mini;Regulador de Tensão;;;;3.3V;1A;LDO;Fixo
+L293;Dual H-Bridge;DIP-16;Matriz de Drive;;;;36V;600mA;Ponte H;4 Ch
+BMS;Protection 1S 3A;Módulo;Controlador Bateria;;;;4.2V;3A;Li-ion;1S
+TP4056;Charger Type-C;Módulo;Carregador Li-ion;;;;5V;1A;Linear;1 Ch
+14D471K;Varistor 470V;Disco 14mm;Varistor;;;;300Vac;4500A;14mm;470V
+SG3525AN;PWM Controller;DIP-16;Driver PWM de Sinal;;;;8-35V;400kHz;Push-Pull;Voltage
+irfb4110pbf;N-Channel Mosfet;TO-220;Mosfet-N;;;;100V;180A;4.5mOhm;N-Ch
+TL494CN;PWM Controller;DIP-16;Driver PWM de Sinal;;;;7-40V;300kHz;Push-Pull;Voltage
+SLA-05VDC-SL-A;Relé 5V 30A;T90 Style;Relé;;;;5Vdc;30A;SPST;1 Ch
+PD65W;USB-C GaN 65W;Módulo;Fonte PD;;;;20V;3.25A;GaN/QC4;65W
+20D271K;Varistor 270V;Disco 20mm;Varistor;;;;175Vac;6500A;20mm;270V
+X9C103S;Digipot 10k;Módulo;Matriz Resistiva;;;;5V;10k;Digital;100th
+FL-19B SHUNT;Shunt 200A 75mV;Barra;Shunt;;;;75mV;200A;0.5 Class;
+TC4420CPA;Gate Driver 6A;DIP-8;Driver de Gate;;;;18V;6A;Single;Non-Inv
+LTV814;AC Optocoupler;DIP-4;Matriz de Isolação;;;;5kV;20-300%;AC-In;1 Ch
+IRF530N;N-Channel Mosfet;TO-220;Mosfet-N;;;;100V;14A;0.16R;N-Ch
+TLP250H;Gate Driver;DIP-8;Driver de Gate;;;;30V;2.5A;Totem;Opto
+KBP307;Ponte Retificadora;DIP-4;Matriz de Diodos;;;;700V;3A;Ponte;4 Di
+lm2596;Step-Down 3A;Módulo mini;Regulador de Tensão;;;;3-40V;3A;Step-Down;Pwm
+LM317T;Reg. Ajustável;TO-220;Regulador de Tensão;;;;1.2-37V;1.5A;Linear;Adj
+AS5600;Magnetic Encoder;Módulo;Matriz de Sinal;;;;5V;12-bit;I2C/Mag;Sensor
+2n2222;NPN Transistor;TO-92;Transistor de Sinal;;;;40V;200hFE;NPN;600mA
+DB107;Ponte 1A 700V;DIP-4;Matriz de Diodos;;;;700V;1A;Ponte;4 Di
+XT60;Plugue Fêmea;Plugue;Conector;;;;500V;60A;DC;Nylon
+XT60;Plugue Macho;Plugue;Conector;;;;500V;60A;DC;Nylon
+XT30;Plugue Fêmea;Plugue;Conector;;;;500V;30A;DC;Nylon
+XT30;Plugue Macho;Plugue;Conector;;;;500V;30A;DC;Nylon
+XT90;Plugue Fêmea;Plugue;Conector;;;;500V;90A;DC;Nylon
+XT90;Plugue Macho;Plugue;Conector;;;;500V;90A;DC;Nylon
+XT60;Soquete Fêmea;Soquete;Conector;;;;500V;60A;DC;Painel
+XT90;Soquete Fêmea;Soquete;Conector;;;;500V;90A;DC;Painel
+XT30;Soquete Fêmea;Soquete;Conector;;;;500V;30A;DC;Painel
+20D271K;Varistor 270V;Disco 20mm;Varistor;;;;175Vac;6500A;20mm;270V
+20D201K;Varistor 200V;Disco 20mm;Varistor;;;;130Vac;6500A;20mm;200V
+SS12D00;Chave Deslizante;SMD/3mm;Chave Seletora;;;;50V;0.5A;1P2T;1 Ch
+12v2a;Fonte Chaveada;Módulo;Fonte AC/DC;;;;12V;2A;Chaveada;Plug
+3296W;Trimpot Multivolt;Horizontal;Trimpot;;;;300V;0.5W;Multivolt;10-2M
+P6KE15A;TVS 15V;DO-15;Matriz de Proteção;;;;12.8V;600W;TVS Uni;1 Ch
+P6KE68A;TVS 68V;DO-15;Matriz de Proteção;;;;58.1V;600W;TVS Uni;1 Ch
+5V2A;Fonte Chaveada;Módulo;Fonte AC/DC;;;;5V;2A;Chaveada;USB
+X2 275VAC;Cap. Supressão;Filme;Capacitor;;;;275Vac;X2;Filme;Poliester
+ST7789;TFT 2.0;Módulo;Display LCD;;;;3.3V;SPI;TFT;2.0"
+ILI9341;TFT 2.8;Módulo;Display LCD;;;;3.3V;SPI/Par;TFT;2.8"
+TLP250;Gate Driver;DIP-8;Driver de Gate;;;;30V;1.5A;Totem;Opto
+KBPC5010;Ponte Metálica;Módulo;Matriz de Diodos;;;;1000V;50A;Ponte;Metal
+IRFB4110;Mosfet-N;TO-220;Mosfet-N;;;;100V;180A;4.5mOhm;N-Ch
+MBRF40100CT;Dual Schottky;TO-220F;Matriz de Diodos;;;;100V;40A;Schottky;2 Di
+FL-2C Shunt;Shunt 200A 75mV;Barra;Shunt;;;;75mV;200A;0.5 Class;
+12v6a;Fonte Chaveada;Módulo;Fonte AC/DC;;;;12V;6A;Chaveada;Aberta
+dc1200w20a;Step-Up 1200W;Módulo;Regulador de Tensão;;;;12-80V;20A;Step-Up;1200W
+esp32-c3;RISC-V MCU;Módulo;Microcontrolador;;;;3.3V;160MHz;RISC-V;WiFi/BT
+IR4427PBF;Dual Gate Driver;DIP-8;Driver de Gate;;;;20V;1.5A;Dual;Low-Side
+100V47UF;Eletrolítico;Radial;Capacitor;;;;100V;47uF;Eletrolit;Radial
+Genérico;Level Shifter;Módulo;Matriz de Sinal;;;;5V;4 Ch;Level Shft;Bidirec
+P6KE6A8;TVS 6.8V;DO-15;Matriz de Proteção;;;;5.8V;600W;TVS Uni;1 Ch
+P6KE13A;TVS 13V;DO-15;Matriz de Proteção;;;;11.1V;600W;TVS Uni;1 Ch
+Mini360;Step-Down Síncrono;Módulo Mini;Regulador de Tensão;;;;4-23V;1.8A;Step-Down;Sincrono
+P6KE51A;TVS 51V;DO-15;Matriz de Proteção;;;;43.6V;600W;TVS Uni;1 Ch
+CD4050BE;Hex Buffer;DIP-16;Matriz de Sinal;;;;3-18V;Hex;Buffer;6 Ch
+07D180K;Varistor 18V;Disco 7mm;Varistor;;;;11Vac;250A;7mm;18V
+PC817;Optocoupler;DIP-4;Matriz de Isolação;;;;5kV;50-600%;Transist;1 Ch
+P6KE15A;TVS 15V;DO-15;Matriz de Proteção;;;;12.8V;600W;TVS Uni;1 Ch
+Clip Fusível;Porta Fusível PCB;DIP;Porta Fusível;;;;250V;10A;PCB;1 Ch
+Attiny13a;AVR MCU;SMD/SOIC;Microcontrolador;;;;5.5V;20MHz;AVR;8-pin
+Estardyn;Prog. AVR;Módulo;Programador;;;;USB;ISP;AVR;
+12085;Buzzer Ativo;Cilíndrico;Buzzer;;;;12V;12R;Ativo;85dB
+PC817;8ch Opto Module;Módulo;Matriz de Isolação;;;;5kV;50-600%;Transist;8 Ch
+TFT 2.5”;Display SPI;Módulo;Display LCD;;;;3.3V;SPI;TFT;2.5"
+TFT 2.0”;Display SPI;Módulo;Display LCD;;;;3.3V;SPI;TFT;2.0"
+IR2110;High/Low Driver;DIP-14;Driver de Gate;;;;500V;2A;Hi/Lo Side;2 Ch
+500w;Pot. 10 Voltas;Painel;Potenciômetro;;;;500R;2W;10 Voltas;Wire
+100k;Pot. 10 Voltas;Painel;Potenciômetro;;;;100k;2W;10 Voltas;Wire
+LM324;Quad Op-Amp;DIP-14;Matriz de Sinal;;;;3-32V;1.2MHz;Amp-Op;4 Ch
+ACS712;Sensor de Corrente;Módulo;Matriz de Sinal;;;;5V;66mV/A;Hall;30A
+D4012SA;Step-Down 3.3V;Módulo;Regulador de Tensão;;;;12V;1A;Step-Down;Fixo
+1N4729A;Diodo Zener 3.6V;DO-41;Diodo Zener;;;;3.6V;1W;Do-41;Zener
+TL431A;Prog. Zener;TO-92;Ref. de Tensão;;;;36V;2.2V;Shunt;Adj
+Fusível Veicular;Mini Lâmina;Veicular;Fusível;;;;32V;Variado;Mini;Lâmina
+XL74610;Diodo Ideal;Módulo;Matriz de Drive;;;;45V;15A;Ideal Di;N-FET
+KCD1;Interruptor;Painel;Interruptor;;;;250V;20A;SPST;Led
+Relé;Relé 12V 30A;Módulo;Relé;;;;12V;30A;SPDT;Power
+MBR3045CT;Schottky 30A;TO-220;Matriz de Diodos;;;;45V;30A;Schottky;2 Di
+IRFB3077;Mosfet-N;TO-220;Mosfet-N;;;;75V;120A;3.3mOhm;N-Ch
+UC3845;Current PWM;DIP-8;Driver PWM de Sinal;;;;30V;500kHz;Single;Current
+L6562;PFC Controller;DIP-8;Controlador PFC;;;;12V;TrM;Boost;Pfc
+2N7000;N-Ch Mosfet;TO-92;Mosfet-N;;;;60V;200mA;5R;N-Ch
+HT7133;LDO 3.3V;SOT-89;Regulador de Tensão;;;;3.3V;30mA;LDO;Fixo
+P6KE440CA;TVS Bidirecional;DO-15;Matriz de Proteção;;;;376V;600W;TVS Bi;1 Ch
+20D471K;Varistor 470V;Disco 20mm;Varistor;;;;300Vac;6500A;20mm;470V
+20D511K;Varistor 510V;Disco 20mm;Varistor;;;;320Vac;6500A;20mm;511V
+IR840;Mosfet-N;TO-220;Mosfet-N;;;;500V;8A;0.85R;N-Ch
+10D-20;NTC 10R;Disco 10mm;NTC;;;;10R;20mm;Termist;Inrush
+20D431K;Varistor 430V;Disco 20mm;Varistor;;;;275Vac;6500A;20mm;430V
+Voltímetro;Painel LED;Soquete;Medidor Painel;;;;0-100V;Led;DC;Digital
+Controlador Bateria;Battery Guard;Módulo;Controlador Bateria;;;;60V;30A;Relé;Adj
+Porta Fusível;6x30mm;Soquete;Porta Fusível;;;;250V;20A;Rosca;Painel
+30SQ050;Schottky 30A;R-6;Diodo Schottky;;;;50V;30A;R-6;Schottky
+Banana;Conector Macho;Plugue;Conector;;;;1kV;32A;4mm;Latão
+Banana;Conector Fêmea;Soquete;Conector;;;;1kV;32A;4mm;Painel
+Filtro EMI;AC Line Filter;Módulo;Filtro EMI;;;;250V;25A;2-Estág;EMI
+USB-C;Conector Fêmea;Soquete;Conector;;;;20V;5A;Dados/Pwr;SMD
+Jack P4;Fêmea 2.1mm;Plugue;Conector;;;;30V;5A;DC;2.1mm
+Jack P4;Macho 2.1mm;Plugue;Conector;;;;30V;5A;DC;2.1mm
+so239;UHF Fêmea;RF;Conector RF;;;;500V;50-Ohm;UHF;Fêmea
+Adaptador;UHF-SMA;Módulo;Conector RF;;;;50-Ohm;UHF-SMA;Adapter;F/F
+Flange;UHF PL259;Módulo;Conector RF;;;;50-Ohm;UHF;Flange;M/F
+Adaptador;BNC-SMA;Módulo;Conector RF;;;;50-Ohm;BNC-SMA;Adapter;F/F
+Adaptador;SMA-UHF;Módulo;Conector RF;;;;50-Ohm;SMA-UHF;Adapter;F/F
+XL4016;Step-Down 9A;Módulo;Regulador de Tensão;;;;4-40V;9A;Step-Down;300W
+W1209;Termostato Dig.;Módulo;Termostato;;;;12V;10A;Relé;Digital
+Bloco Terminal;KRE/PWB;Terminal;Terminal;;;;300V;20A;Parafuso;PCB
+Step-Down 8A;Módulo Buck;Módulo;Regulador de Tensão;;;;4-38V;8A;Step-Down;100W
+Step-Up 15A;Módulo Boost;Módulo;Regulador de Tensão;;;;8-60V;15A;Step-Up;400W
+a1015;PNP Transistor;TO-92;Transistor de Sinal;CX 200;;;50V;80hFE;PNP;150mA
+s9018;NPN RF Trans.;TO-92;Transistor de Sinal;CX 200;;;15V;1.1GHz;NPN;50mA
+bc327;PNP Transistor;TO-92;Transistor de Sinal;CX 200;;;45V;100hFE;PNP;800mA
+bc337;NPN Transistor;TO-92;Transistor de Sinal;CX 200;;;45V;100hFE;NPN;800mA
+bc547;NPN Transistor;TO-92;Transistor de Sinal;CX 200;;;45V;200hFE;NPN;100mA
+gc557;PNP Transistor;TO-92;Transistor de Sinal;CX 200;;;45V;125hFE;PNP;100mA
+c945;NPN Transistor;TO-92;Transistor de Sinal;CX 200;;;50V;200hFE;NPN;150mA
+c1815;NPN Transistor;TO-92;Transistor de Sinal;CX 200;;;50V;130hFE;NPN;150mA
+S8050;NPN Transistor;TO-92;Transistor de Sinal;CX 200;;;25V;120hFE;NPN;500mA
+S8550;PNP Transistor;TO-92;Transistor de Sinal;CX 200;;;25V;120hFE;PNP;500mA
+S9012;PNP Transistor;TO-92;Transistor de Sinal;CX 200;;;25V;120hFE;PNP;500mA
+S9013;NPN Transistor;TO-92;Transistor de Sinal;CX 200;;;25V;120hFE;NPN;500mA
+S9014;NPN Transistor;TO-92;Transistor de Sinal;CX 200;;;45V;200hFE;NPN;100mA
+S9015;PNP Transistor;TO-92;Transistor de Sinal;CX 200;;;45V;200hFE;PNP;100mA
+2N2907;PNP Transistor;TO-92;Transistor de Sinal;CX 200;;;60V;100hFE;PNP;600mA
+2N3904;NPN Transistor;TO-92;Transistor de Sinal;CX 200;;;40V;100hFE;NPN;200mA
+2N3906;PNP Transistor;TO-92;Transistor de Sinal;CX 200;;;40V;100hFE;PNP;200mA
+2N5401;PNP Transistor;TO-92;Transistor de Sinal;CX 200;;;150V;60hFE;PNP;600mA
+2N5551;NPN Transistor;TO-92;Transistor de Sinal;CX 200;;;160V;80hFE;NPN;600mA
+200uH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;10%;Color Ring;200uH
+330uH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;11%;Color Ring;330uH
+1uH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;12%;Color Ring;1uH
+10uH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;13%;Color Ring;10uH
+2.2mH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;14%;Color Ring;2.2mH
+150uH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;15%;Color Ring;150uH
+1mH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;16%;Color Ring;1mH
+15uH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;17%;Color Ring;15uH
+47uH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;18%;Color Ring;47uH
+4.7mH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;19%;Color Ring;4.7mH
+4.7uH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;20%;Color Ring;4.7uH
+3.3uH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;21%;Color Ring;3.3uH
+2.2uH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;22%;Color Ring;2.2uH
+33uH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;23%;Color Ring;33uH
+680uH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;24%;Color Ring;680uH
+3.3mH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;25%;Color Ring;3.3mH
+100uH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;26%;Color Ring;100uH
+470uH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;27%;Color Ring;470uH
+22uH;Indutor Color;Axial;Indutor;cx20v Indutor;;;0.5W;28%;Color Ring;22uH
+UCC28180;PFC Ctrl;SOIC-8;Controlador PFC;;;;18V;200kHz;Boost;CCM
+UCC25600;Resonant Ctrl;SOIC-8;Driver PWM de Sinal;;;;26V;350kHz;Half-Br;LLC
+IPW60R041P6;CoolMOS;TO-247;Mosfet-N;;;;600V;77A;41mOhm;N-Ch
+STPSC10H065;SiC Diode;TO-220;Diodo Schottky;;;;650V;10A;SiC;Schottky
